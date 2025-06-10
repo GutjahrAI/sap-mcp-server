@@ -3,7 +3,7 @@ Yet Another SAP MCP Server
 
 This is a Model Context Protocol (MCP) server for VS Code and other AI tools. It provides tools for:
 
-* Fetching npm package info
+* Fetching npm package info ( for testing )
 * Fetching SAP Sales Orders ( for testing )
 * Generating ABAP Function Modules using AI
 * Generating code snippets in any language using AI
