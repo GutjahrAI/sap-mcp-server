@@ -1,0 +1,19 @@
+{
+  "name": "mcp-server-npm",
+  "version": "1.0.0",
+  "description": "MCP server for npm package info",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "debug": "npx @modelcontextprotocol/inspector node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "axios": "^1.9.0",
+    "dotenv": "^16.5.0",
+    "openai": "^5.2.0",
+    "zod": "^3.25.56"
+  },
+  "license": "Apache-2.0"
+}
